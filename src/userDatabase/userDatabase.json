@@ -1,0 +1,121 @@
+[
+  {
+    "id": "7de63baa-d4e1-4462-a3e8-3a9ef09fb2dd",
+    "email": "Chidinma@gmail.com",
+    "password": "$2b$09$FC5ytbh8z8xfl0MyvrfS7uYHaflXX6Do1p6/OpJT6CXqBv5FmyrXC",
+    "createdAt": "2023-06-27T15:57:50.789Z",
+    "updatedAt": "2023-06-27T15:57:50.789Z"
+  },
+  {
+    "id": "78f7946c-5ae2-425a-87ac-3224e46582e7",
+    "email": "Chyarn testinma@gmail.com",
+    "password": "$2b$09$UgoSJkEE3Crrh0URl.2cweKAOAZHB.f6jrQUpMyeDJsmNZRAV5huW",
+    "createdAt": "2023-06-28T00:57:14.571Z",
+    "updatedAt": "2023-06-28T00:57:14.571Z"
+  },
+  {
+    "id": "2a4584b9-4331-4296-b864-9873af060960",
+    "email": "testinma@gmail.com",
+    "password": "$2b$09$XyjbFRYJx9H6qLDtBfs6TOeIi4ZC/W306aKRjVTniSzadrtIu0nXG",
+    "createdAt": "2023-06-28T00:59:35.032Z",
+    "updatedAt": "2023-06-28T00:59:35.032Z"
+  },
+  {
+    "id": "78096a3a-edd6-4753-b0cc-d897d67ded36",
+    "email": "Chidinnma@gmail.com",
+    "password": "$2b$09$EOFhpVSm.WEWtsGU64d5LO/zoAWIO8uDR31J8PZ6E3lmMjlmrAo/C",
+    "createdAt": "2023-06-28T01:56:56.885Z",
+    "updatedAt": "2023-06-28T01:56:56.885Z"
+  },
+  {
+    "id": "d3544b2b-024a-421a-82c9-d1ce23fc2a13",
+    "email": "testingma@gmail.com",
+    "password": "$2b$09$uPlSkRiwxcnZyIiOzimTWuG3kfgaRtuTzk6xyY7GeOn6tJnRnH0Wy",
+    "createdAt": "2023-06-28T01:59:52.592Z",
+    "updatedAt": "2023-06-28T01:59:52.592Z"
+  },
+  {
+    "id": "d165b297-5291-4f18-9096-1ecfaeccd94f",
+    "email": "testinghmaa@gmail.com",
+    "password": "$2b$09$MzEGijgxKiBvODcSe4jDyeQShW9SIMwRSP4nyrMIk03rDYIhNgjd6",
+    "createdAt": "2023-06-28T02:39:49.628Z",
+    "updatedAt": "2023-06-28T02:39:49.628Z"
+  },
+  {
+    "id": "1ffce986-114e-433d-842d-279816af506e",
+    "email": "testingnnmaa@gmail.com",
+    "password": "$2b$09$r.4BZAt5UD2sHkOFNghl9u9q.vISDMap3HmHDn2333gF9Nv67.DUS",
+    "createdAt": "2023-06-28T03:00:26.680Z",
+    "updatedAt": "2023-06-28T03:00:26.680Z"
+  },
+  {
+    "id": "b6f41a92-dd84-4ee2-9ae2-74ad6e6d93ce",
+    "email": "testingnnmaa01@gmail.com",
+    "password": "$2b$09$MyTK6K8qzhWK6PgE4/.31.S.Uq06M2wkC1hGOaxVWOQQJ7/3Pz7..",
+    "createdAt": "2023-06-29T00:18:47.428Z",
+    "updatedAt": "2023-06-29T00:18:47.428Z"
+  },
+  {
+    "id": "511bc7dc-fbf3-4a0e-a9dc-36efa18d5023",
+    "email": "testingnnmaa011@gmail.com",
+    "password": "$2b$09$aGp6ZgD0BvLlkYaltnM2UukxP1Vaw0OObVDrQ2Bj08GYAb9pnQZym",
+    "createdAt": "2023-07-03T07:26:58.617Z",
+    "updatedAt": "2023-07-03T07:26:58.617Z"
+  },
+  {
+    "id": "68ff225d-793f-4aca-a180-55f1a5f020c6",
+    "email": "testingnnmaa0111@gmail.com",
+    "password": "$2b$09$KbRbJP6YyMwoRUf7WWkB0uRWSEge5G8dzR.CjFIV1Zk/3jlE4dp9W",
+    "createdAt": "2023-07-03T15:56:00.691Z",
+    "updatedAt": "2023-07-03T15:56:00.691Z"
+  },
+  {
+    "id": "bbf3adcd-1d48-4155-ba62-315b299a15a6",
+    "email": "testingnnm45@gmail.com",
+    "password": "$2b$09$rb.c2oPBZq.IEcfdTsdHp.my/TpWp6c5f9yECzsETmDAv6PNsbEaK",
+    "createdAt": "2023-07-11T13:56:16.171Z",
+    "updatedAt": "2023-07-11T13:56:16.171Z"
+  },
+  {
+    "id": "cee7de77-4238-4fe5-8a42-1f0dd2e70a03",
+    "email": "testingnnm45vb98o@gmail.com",
+    "password": "$2b$09$C.vYZKJAv5cKtZjoTLQgt.jcQ1nHDGxCgE0cJHx5Qw8YJK9IYNbui",
+    "createdAt": "2023-07-11T13:57:43.322Z",
+    "updatedAt": "2023-07-11T13:57:43.322Z"
+  },
+  {
+    "id": "94c68f4e-fe59-4bbc-80b3-cdea79ca2a73",
+    "email": "testingnnm453vg6r@gmail.com",
+    "password": "$2b$09$X0SzSbBCXFFxOJgI4W/y7uAV.v5WOW0PZASY7UQ8.wefZDZ.YZsB.",
+    "createdAt": "2023-07-11T14:01:01.190Z",
+    "updatedAt": "2023-07-11T14:01:01.190Z"
+  },
+  {
+    "id": "2461e8c2-c6e6-42b9-9fe2-8b89e99ae273",
+    "email": "testingnnm45ifoup@gmail.com",
+    "password": "$2b$09$09S.2/3fH.0hEHQHGpRH4.DEk2csKePwUIf7BFUnI0gfvrJ/COUZW",
+    "createdAt": "2023-07-11T14:03:24.422Z",
+    "updatedAt": "2023-07-11T14:03:24.422Z"
+  },
+  {
+    "id": "09fed296-6a9a-4942-a84e-fc583814a980",
+    "email": "testingnnm45t9sqr@gmail.com",
+    "password": "$2b$09$I16gyejSGrdziHumf9pAbeEfQ/Msp6WhvYNB1ZjC/qA9UNJ8vMrAO",
+    "createdAt": "2023-07-11T14:04:07.929Z",
+    "updatedAt": "2023-07-11T14:04:07.929Z"
+  },
+  {
+    "id": "ea57291d-2d60-41ea-b1c1-79cf8de493ff",
+    "email": "testingnnm45ejdu8@gmail.com",
+    "password": "$2b$09$9uoN/lGn39Y7WRGm4OItFe23CLvP6hV7CsmiafeMY.XpPL0Gr9SAy",
+    "createdAt": "2023-07-11T14:05:08.475Z",
+    "updatedAt": "2023-07-11T14:05:08.475Z"
+  },
+  {
+    "id": "605579e0-043d-410d-92fb-b5b988aacca7",
+    "email": "testingnnm454okor@gmail.com",
+    "password": "$2b$09$KJWcwUsOfAdOxz.Fd16Zke15y7o0c2dgCkKceg9Ej5g/BSL5xET2S",
+    "createdAt": "2023-07-11T19:03:04.363Z",
+    "updatedAt": "2023-07-11T19:03:04.363Z"
+  }
+]
